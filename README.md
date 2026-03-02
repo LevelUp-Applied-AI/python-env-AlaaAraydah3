@@ -27,3 +27,10 @@ python -m pip install -r requirements-prework.txt
 2. Complete the work
 3. Push the branch and open a PR from your branch to `main`
 4. Submit the PR URL in TalentLMS
+
+
+## When to use each
+
+1. Jupyter notebooks are good for testing and trying ideas step by step.
+
+2. Python scripts are better for running code and repeating tasks easily.
